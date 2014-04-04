@@ -4,7 +4,7 @@ ezJson
 Ridiculously easy HTTP Requests for iOS
 ======
 
-HTTP calls are now just method
+HTTP calls are now just a single method
 
 
 -----
