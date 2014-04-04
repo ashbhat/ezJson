@@ -18,11 +18,15 @@ Import ezJson.h into project
 Post Request
 ---
 [ezJson returnJsonwithParam:@{@"key" : @"value"} andEndpointString:@"http://postRequestURL.com" WithHandler:^(__weak id result) {
+
         NSLog(@"%@", result);
+        
     }];
     
 Get Request
 ---
 [ezJson returnJsonwithParam:@{} andEndpointString:@"http://getRequestURL.com" WithHandler:^(__weak id result) {
+
         NSLog(@"%@", result);
+        
     }];
