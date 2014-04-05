@@ -8,7 +8,7 @@ HTTP calls are now just a single method
 
 
 -----
-Import ezJson.h into project
+Import ezJson.h & .m into project
 -----
 
 
